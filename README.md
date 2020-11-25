@@ -1,2 +1,2 @@
-# MIRA-Book-for-Representation-Learning
-MIRA Book for Representation Learning (draft)
+# MIRA Book for Representation Learning
+This is a draft of MIRA Book for Representation Learning. 
